@@ -15,7 +15,7 @@ button.square {
   width: 2em;
   height: 2em;
   line-height: 2em;
-  vertical-align: 2em;
+  vertical-align: 1em;
   text-align: center;
   text-decoration: none;
   color: #000;
